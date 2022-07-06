@@ -1,0 +1,56 @@
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700&display=swap
+File Name: C:\Downloaded Web Sites\novadex.finance\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap
+File Name: C:\Downloaded Web Sites\novadex.finance\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\novadex.finance\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\novadex.finance\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\novadex.finance\s\montserrat\v24\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\novadex.finance\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://novadex.finance/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\novadex.finance\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://novadex.finance/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\novadex.finance\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://novadex.finance/manifest.json
+File Name: C:\Downloaded Web Sites\novadex.finance\manifest.json
+Content Type: application/json
+
+Uri: https://novadex.finance/static/js/9.202d0f88.chunk.js
+File Name: C:\Downloaded Web Sites\novadex.finance\static\js\9.202d0f88.chunk.js
+Content Type: application/javascript
+
+Uri: https://novadex.finance/static/js/main.c3005c3b.chunk.js
+File Name: C:\Downloaded Web Sites\novadex.finance\static\js\main.c3005c3b.chunk.js
+Content Type: application/javascript
+
+Uri: https://novadex.finance/traderoutes
+File Name: C:\Downloaded Web Sites\novadex.finance\traderoutes.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/tr?id=964799387574791&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\novadex.finance\tr
+Content Type: image/gif
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-6Y49FW7PEZ
+File Name: C:\Downloaded Web Sites\novadex.finance\gtag\js
+Content Type: application/javascript
+

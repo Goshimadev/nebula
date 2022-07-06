@@ -1,0 +1,16 @@
+{
+  "short_name": "NovaDEX - Legend of Novaria",
+  "name": "NovaDEX - Legend of Novaria",
+  "description": "Earn Nova and sNova through trade routes, money pots and playing Legend of Novaria",
+  "icons": [
+    {
+      "src": "android-chrome-192x192.png",
+      "type": "image/x-icon",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
